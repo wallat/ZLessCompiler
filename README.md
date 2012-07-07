@@ -58,8 +58,9 @@ Since we still register *.css in the clientScript component, you can compile a c
 
 ### Links
 
-* [LESS](http://lesscss.org/)
 * [leafo's lessphp](https://github.com/leafo/lessphp)
+* [LESS](http://lesscss.org/)
+* [Yii framework](http://www.yiiframework.com/)
 
 ### Credits
 
