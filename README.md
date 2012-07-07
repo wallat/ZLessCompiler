@@ -1,7 +1,7 @@
 ZLessCompiler
 =============
 
-A auto less compiler for Yii framework in developement enviroment
+A auto less compiler for **Yii** framework in developement enviroment
 
 ### What's this
 
@@ -17,8 +17,8 @@ This extension is to fit my situation:
 
 ### How to use
 
-1. Copy ZLessCompiler into your extension folder.
-2. Setup the config file by adding two parts into config/main.php
+1. Copy ZLessCompiler into your **protected/extensions** folder.
+2. Setup the config file by adding two parts into **config/main.php**
 
         return array(
             // trigger compiler every time
